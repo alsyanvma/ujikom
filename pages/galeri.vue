@@ -79,7 +79,7 @@
 
         <!-- Gambar 3 -->
         <div class="gallery-card">
-          <img src="assets/img/Kamis1.jpg" alt="Gambar 3" class="img-fluid gallery-image" />
+          <img src="assets/img/kamis1.jpg" alt="Gambar 3" class="img-fluid gallery-image" />
         </div>
 
         <!-- Gambar 4 -->
