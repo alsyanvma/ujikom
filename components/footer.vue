@@ -23,8 +23,8 @@
               <i class="bi bi-facebook"></i>
             </a>
             <!-- Instagram -->
-            <a href="https://www.instagram.com/smkn4tasikmalaya/" class="text-white me-3" target="_blank"
-              title="Instagram">
+            <a href="https://www.instagram.com/smkn4tsmofficial?igsh=djRxa2xlMWY1a3Zo" class="text-white me-3"
+              target="_blank" title="Instagram">
               <i class="bi bi-instagram"></i>
             </a>
           </div>

@@ -74,7 +74,7 @@
 
         <!-- Gambar 2 -->
         <div class="gallery-card">
-          <img src="assets/img/Rabu.jpg" alt="Gambar 2" class="img-fluid gallery-image" />
+          <img src="assets/img/rabu.jpg" alt="Gambar 2" class="img-fluid gallery-image" />
         </div>
 
         <!-- Gambar 3 -->
